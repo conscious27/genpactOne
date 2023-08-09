@@ -1,5 +1,8 @@
-<div>
-    <h2>Name: {{username}}</h2>
-    <h2>Salary: {{salary|custompipe}}</h2>
-    <h2>Email: {{email}}</h2>
+<h1>Employee Details</h1>
+
+<div *ngFor="let u of users">
+    <h2>Name: {{u.username}}</h2>
+    <h2>Email: {{u.email}}</h2>
+    <h2>Salary: {{u.salary|custompipe}}</h2>
+    <h2>Designation: {{u.desig}}</h2>
 </div>

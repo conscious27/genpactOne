@@ -6,7 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./pipeex.component.css']
 })
 export class PipeexComponent {
-  username:string="Chaitanya";
-  salary:number=12000;
-  email:string="cp@gmail.com";
+  users:any[]=[
+    {username:"Chaitanya", email:"cp@genpact.com", salary:12000, desig:"Developer"},
+    {username:"Amit", email:"amit@genpact.com", salary:24000, desig:"Manager"},
+    {username:"Aman", email:"aman@genpact.com", salary:36000, desig:"CTO"},
+  ]
 }
