@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 9\ConAppDestructor\ConAppDestructor\bin\Debug\ConAppDestructor.exe.config
+C:\DotNet Training\Day 9\ConAppDestructor\ConAppDestructor\bin\Debug\ConAppDestructor.exe
+C:\DotNet Training\Day 9\ConAppDestructor\ConAppDestructor\bin\Debug\ConAppDestructor.pdb
+C:\DotNet Training\Day 9\ConAppDestructor\ConAppDestructor\obj\Debug\ConAppDestructor.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 9\ConAppDestructor\ConAppDestructor\obj\Debug\ConAppDestructor.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 9\ConAppDestructor\ConAppDestructor\obj\Debug\ConAppDestructor.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 9\ConAppDestructor\ConAppDestructor\obj\Debug\ConAppDestructor.exe
+C:\DotNet Training\Day 9\ConAppDestructor\ConAppDestructor\obj\Debug\ConAppDestructor.pdb

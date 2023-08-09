@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 4\ConaAppSealedEx\ConaAppSealedEx\bin\Debug\ConaAppSealedEx.exe.config
+C:\DotNet Training\Day 4\ConaAppSealedEx\ConaAppSealedEx\bin\Debug\ConaAppSealedEx.exe
+C:\DotNet Training\Day 4\ConaAppSealedEx\ConaAppSealedEx\bin\Debug\ConaAppSealedEx.pdb
+C:\DotNet Training\Day 4\ConaAppSealedEx\ConaAppSealedEx\obj\Debug\ConaAppSealedEx.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 4\ConaAppSealedEx\ConaAppSealedEx\obj\Debug\ConaAppSealedEx.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 4\ConaAppSealedEx\ConaAppSealedEx\obj\Debug\ConaAppSealedEx.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 4\ConaAppSealedEx\ConaAppSealedEx\obj\Debug\ConaAppSealedEx.exe
+C:\DotNet Training\Day 4\ConaAppSealedEx\ConaAppSealedEx\obj\Debug\ConaAppSealedEx.pdb

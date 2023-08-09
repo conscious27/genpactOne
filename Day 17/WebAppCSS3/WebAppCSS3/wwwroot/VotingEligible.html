@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="css/OurStyle.css" rel="stylesheet" />
+    <script>
+        function getResult() {
+            const age = parseFloat(document.getElementById("uAge").value);
+
+            if ((!isNaN(age))) {
+                if (age > 18) {
+                    document.getElementById("result").innerHTML = "User is Eligible for voting.";
+                //    alert("User is Eligible for voting.");
+                }
+                else {
+                    document.getElementById("result").innerHTML = "User is Ineligible for voting.";
+                }
+            }
+            else {
+                document.getElementById("result").innerHTML = "Please Enter Number Only!";
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Check Age for Voting</h1>
+    <label>Enter Current Age:</label>
+    <input type="text" id="uAge" /><br/>
+    <button onclick="getResult()">Get Result</button>
+    <p id="result">Result will appear here.</p>
+</body>
+</html>

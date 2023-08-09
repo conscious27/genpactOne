@@ -1,0 +1,6 @@
+C:\DotNet Training\Day 11\UnitTestProject1\LoginModule\bin\Debug\LoginModule.dll
+C:\DotNet Training\Day 11\UnitTestProject1\LoginModule\bin\Debug\LoginModule.pdb
+C:\DotNet Training\Day 11\UnitTestProject1\LoginModule\obj\Debug\LoginModule.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 11\UnitTestProject1\LoginModule\obj\Debug\LoginModule.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 11\UnitTestProject1\LoginModule\obj\Debug\LoginModule.dll
+C:\DotNet Training\Day 11\UnitTestProject1\LoginModule\obj\Debug\LoginModule.pdb

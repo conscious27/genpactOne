@@ -1,0 +1,11 @@
+C:\DotNet Training\Day 7\UsageExample\UsageExample\bin\Debug\UsageExample.exe.config
+C:\DotNet Training\Day 7\UsageExample\UsageExample\bin\Debug\UsageExample.exe
+C:\DotNet Training\Day 7\UsageExample\UsageExample\bin\Debug\UsageExample.pdb
+C:\DotNet Training\Day 7\UsageExample\UsageExample\bin\Debug\CalcLib.dll
+C:\DotNet Training\Day 7\UsageExample\UsageExample\bin\Debug\CalcLib.pdb
+C:\DotNet Training\Day 7\UsageExample\UsageExample\obj\Debug\UsageExample.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 7\UsageExample\UsageExample\obj\Debug\UsageExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 7\UsageExample\UsageExample\obj\Debug\UsageExample.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 7\UsageExample\UsageExample\obj\Debug\UsageExample.csproj.CopyComplete
+C:\DotNet Training\Day 7\UsageExample\UsageExample\obj\Debug\UsageExample.exe
+C:\DotNet Training\Day 7\UsageExample\UsageExample\obj\Debug\UsageExample.pdb

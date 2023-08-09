@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 11\ConAppSerialization\ConAppSerialization\bin\Debug\ConAppSerialization.exe.config
+C:\DotNet Training\Day 11\ConAppSerialization\ConAppSerialization\bin\Debug\ConAppSerialization.exe
+C:\DotNet Training\Day 11\ConAppSerialization\ConAppSerialization\bin\Debug\ConAppSerialization.pdb
+C:\DotNet Training\Day 11\ConAppSerialization\ConAppSerialization\obj\Debug\ConAppSerialization.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 11\ConAppSerialization\ConAppSerialization\obj\Debug\ConAppSerialization.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 11\ConAppSerialization\ConAppSerialization\obj\Debug\ConAppSerialization.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 11\ConAppSerialization\ConAppSerialization\obj\Debug\ConAppSerialization.exe
+C:\DotNet Training\Day 11\ConAppSerialization\ConAppSerialization\obj\Debug\ConAppSerialization.pdb

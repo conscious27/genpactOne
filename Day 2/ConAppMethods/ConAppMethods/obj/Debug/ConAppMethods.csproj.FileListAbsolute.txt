@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 2\ConAppMethods\ConAppMethods\bin\Debug\ConAppMethods.exe.config
+C:\DotNet Training\Day 2\ConAppMethods\ConAppMethods\bin\Debug\ConAppMethods.exe
+C:\DotNet Training\Day 2\ConAppMethods\ConAppMethods\bin\Debug\ConAppMethods.pdb
+C:\DotNet Training\Day 2\ConAppMethods\ConAppMethods\obj\Debug\ConAppMethods.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 2\ConAppMethods\ConAppMethods\obj\Debug\ConAppMethods.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 2\ConAppMethods\ConAppMethods\obj\Debug\ConAppMethods.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 2\ConAppMethods\ConAppMethods\obj\Debug\ConAppMethods.exe
+C:\DotNet Training\Day 2\ConAppMethods\ConAppMethods\obj\Debug\ConAppMethods.pdb

@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 8\ConAppLinqContinue\ConAppLinqContinue\bin\Debug\ConAppLinqContinue.exe.config
+C:\DotNet Training\Day 8\ConAppLinqContinue\ConAppLinqContinue\bin\Debug\ConAppLinqContinue.exe
+C:\DotNet Training\Day 8\ConAppLinqContinue\ConAppLinqContinue\bin\Debug\ConAppLinqContinue.pdb
+C:\DotNet Training\Day 8\ConAppLinqContinue\ConAppLinqContinue\obj\Debug\ConAppLinqContinue.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 8\ConAppLinqContinue\ConAppLinqContinue\obj\Debug\ConAppLinqContinue.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 8\ConAppLinqContinue\ConAppLinqContinue\obj\Debug\ConAppLinqContinue.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 8\ConAppLinqContinue\ConAppLinqContinue\obj\Debug\ConAppLinqContinue.exe
+C:\DotNet Training\Day 8\ConAppLinqContinue\ConAppLinqContinue\obj\Debug\ConAppLinqContinue.pdb

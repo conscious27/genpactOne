@@ -1,0 +1,11 @@
+C:\DotNet Training\Day 7\ConWelcomeApp\ConWelcomeApp\bin\Debug\ConWelcomeApp.exe.config
+C:\DotNet Training\Day 7\ConWelcomeApp\ConWelcomeApp\bin\Debug\ConWelcomeApp.exe
+C:\DotNet Training\Day 7\ConWelcomeApp\ConWelcomeApp\bin\Debug\ConWelcomeApp.pdb
+C:\DotNet Training\Day 7\ConWelcomeApp\ConWelcomeApp\bin\Debug\WelcomeLib.dll
+C:\DotNet Training\Day 7\ConWelcomeApp\ConWelcomeApp\bin\Debug\WelcomeLib.pdb
+C:\DotNet Training\Day 7\ConWelcomeApp\ConWelcomeApp\obj\Debug\ConWelcomeApp.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 7\ConWelcomeApp\ConWelcomeApp\obj\Debug\ConWelcomeApp.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 7\ConWelcomeApp\ConWelcomeApp\obj\Debug\ConWelcomeApp.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 7\ConWelcomeApp\ConWelcomeApp\obj\Debug\ConWelcomeApp.csproj.CopyComplete
+C:\DotNet Training\Day 7\ConWelcomeApp\ConWelcomeApp\obj\Debug\ConWelcomeApp.exe
+C:\DotNet Training\Day 7\ConWelcomeApp\ConWelcomeApp\obj\Debug\ConWelcomeApp.pdb

@@ -1,0 +1,54 @@
+<!-- <h1>Structural Directive</h1>
+<h2>ngFor</h2>
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Salary</th>
+      <th>Designation</th>
+      <th>Date of Joining</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let e of emps">
+      <th>{{e.id}}</th>
+      <th>{{e.name}}</th>
+      <th>{{e.salary}}</th>
+      <th>{{e.desig}}</th>
+      <th>{{e.doj}}</th>
+    </tr>
+  </tbody>
+</table> -->
+
+<h2 class="bg-primary text-white text-center">ngSwitch Example</h2>
+<ul *ngFor="let e of emps" class="list-group" [ngSwitch]="e.desig">
+  <li *ngSwitchCase="'developer'" class="bg-primary text-white">
+    ID: {{e.id}} <br/>
+    Name: {{e.name}} <br/>
+    Salary: {{e.salary}} <br/>
+    Designation: {{e.desig}} <br/>
+    Date of Joining: {{e.doj}} <br/>
+  </li>
+  <li *ngSwitchCase="'tester'" class="bg-success text-white">
+    ID: {{e.id}} <br/>
+    Name: {{e.name}} <br/>
+    Salary: {{e.salary}} <br/>
+    Designation: {{e.desig}} <br/>
+    Date of Joining: {{e.doj}} <br/>
+  </li>
+  <li *ngSwitchCase="'Manager'" class="bg-warning text-white">
+    ID: {{e.id}} <br/>
+    Name: {{e.name}} <br/>
+    Salary: {{e.salary}} <br/>
+    Designation: {{e.desig}} <br/>
+    Date of Joining: {{e.doj}} <br/>
+  </li>
+  <li *ngSwitchDefault class="bg-white text-black">
+    ID: {{e.id}} <br/>
+    Name: {{e.name}} <br/>
+    Salary: {{e.salary}} <br/>
+    Designation: {{e.desig}} <br/>
+    Date of Joining: {{e.doj}} <br/>
+  </li>
+</ul>

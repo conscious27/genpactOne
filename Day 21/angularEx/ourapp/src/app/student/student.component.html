@@ -1,0 +1,19 @@
+<h2>Student Details</h2>
+<table border="1">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Fee</th>
+      <th>Date of Birth</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let s of students">
+        <td>{{s.sid}}</td>
+        <td>{{s.sname}}</td>
+        <td>{{s.sfee}}</td>
+        <td>{{s.sdob}}</td>
+    </tr>
+  </tbody>
+</table>

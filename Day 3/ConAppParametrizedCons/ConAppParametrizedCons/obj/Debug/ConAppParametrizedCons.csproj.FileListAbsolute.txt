@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 3\ConAppParametrizedCons\ConAppParametrizedCons\bin\Debug\ConAppParametrizedCons.exe.config
+C:\DotNet Training\Day 3\ConAppParametrizedCons\ConAppParametrizedCons\bin\Debug\ConAppParametrizedCons.exe
+C:\DotNet Training\Day 3\ConAppParametrizedCons\ConAppParametrizedCons\bin\Debug\ConAppParametrizedCons.pdb
+C:\DotNet Training\Day 3\ConAppParametrizedCons\ConAppParametrizedCons\obj\Debug\ConAppParametrizedCons.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 3\ConAppParametrizedCons\ConAppParametrizedCons\obj\Debug\ConAppParametrizedCons.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 3\ConAppParametrizedCons\ConAppParametrizedCons\obj\Debug\ConAppParametrizedCons.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 3\ConAppParametrizedCons\ConAppParametrizedCons\obj\Debug\ConAppParametrizedCons.exe
+C:\DotNet Training\Day 3\ConAppParametrizedCons\ConAppParametrizedCons\obj\Debug\ConAppParametrizedCons.pdb

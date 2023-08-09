@@ -1,0 +1,9 @@
+C:\DotNet Training\Day 10\OurNunitLib\OurNunitLib\bin\Debug\OurNunitLib.dll
+C:\DotNet Training\Day 10\OurNunitLib\OurNunitLib\bin\Debug\OurNunitLib.pdb
+C:\DotNet Training\Day 10\OurNunitLib\OurNunitLib\bin\Debug\nunit.framework.dll
+C:\DotNet Training\Day 10\OurNunitLib\OurNunitLib\bin\Debug\nunit.framework.xml
+C:\DotNet Training\Day 10\OurNunitLib\OurNunitLib\obj\Debug\OurNunitLib.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 10\OurNunitLib\OurNunitLib\obj\Debug\OurNunitLib.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 10\OurNunitLib\OurNunitLib\obj\Debug\OurNunitLib.csproj.CopyComplete
+C:\DotNet Training\Day 10\OurNunitLib\OurNunitLib\obj\Debug\OurNunitLib.dll
+C:\DotNet Training\Day 10\OurNunitLib\OurNunitLib\obj\Debug\OurNunitLib.pdb

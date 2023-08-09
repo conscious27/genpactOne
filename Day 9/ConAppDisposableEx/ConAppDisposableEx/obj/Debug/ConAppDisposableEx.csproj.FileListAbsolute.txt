@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 9\ConAppDisposableEx\ConAppDisposableEx\bin\Debug\ConAppDisposableEx.exe.config
+C:\DotNet Training\Day 9\ConAppDisposableEx\ConAppDisposableEx\bin\Debug\ConAppDisposableEx.exe
+C:\DotNet Training\Day 9\ConAppDisposableEx\ConAppDisposableEx\bin\Debug\ConAppDisposableEx.pdb
+C:\DotNet Training\Day 9\ConAppDisposableEx\ConAppDisposableEx\obj\Debug\ConAppDisposableEx.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 9\ConAppDisposableEx\ConAppDisposableEx\obj\Debug\ConAppDisposableEx.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 9\ConAppDisposableEx\ConAppDisposableEx\obj\Debug\ConAppDisposableEx.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 9\ConAppDisposableEx\ConAppDisposableEx\obj\Debug\ConAppDisposableEx.exe
+C:\DotNet Training\Day 9\ConAppDisposableEx\ConAppDisposableEx\obj\Debug\ConAppDisposableEx.pdb

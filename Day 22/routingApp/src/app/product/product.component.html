@@ -1,0 +1,7 @@
+<ul *ngFor="let p of products">
+    <li>
+        Id :  {{p.pid}}
+        Price :  {{p.price}}
+        Image :  <img [src]="p.imgsrc" class="img-fluid">
+    </li>
+</ul>

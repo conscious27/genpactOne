@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 4\ConAppAbstractExample\ConAppAbstractExample\bin\Debug\ConAppAbstractExample.exe.config
+C:\DotNet Training\Day 4\ConAppAbstractExample\ConAppAbstractExample\bin\Debug\ConAppAbstractExample.exe
+C:\DotNet Training\Day 4\ConAppAbstractExample\ConAppAbstractExample\bin\Debug\ConAppAbstractExample.pdb
+C:\DotNet Training\Day 4\ConAppAbstractExample\ConAppAbstractExample\obj\Debug\ConAppAbstractExample.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 4\ConAppAbstractExample\ConAppAbstractExample\obj\Debug\ConAppAbstractExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 4\ConAppAbstractExample\ConAppAbstractExample\obj\Debug\ConAppAbstractExample.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 4\ConAppAbstractExample\ConAppAbstractExample\obj\Debug\ConAppAbstractExample.exe
+C:\DotNet Training\Day 4\ConAppAbstractExample\ConAppAbstractExample\obj\Debug\ConAppAbstractExample.pdb

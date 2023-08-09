@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 10\EventHandlingExampleThree\EventHandlingExampleThree\bin\Debug\EventHandlingExampleThree.exe.config
+C:\DotNet Training\Day 10\EventHandlingExampleThree\EventHandlingExampleThree\bin\Debug\EventHandlingExampleThree.exe
+C:\DotNet Training\Day 10\EventHandlingExampleThree\EventHandlingExampleThree\bin\Debug\EventHandlingExampleThree.pdb
+C:\DotNet Training\Day 10\EventHandlingExampleThree\EventHandlingExampleThree\obj\Debug\EventHandlingExampleThree.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 10\EventHandlingExampleThree\EventHandlingExampleThree\obj\Debug\EventHandlingExampleThree.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 10\EventHandlingExampleThree\EventHandlingExampleThree\obj\Debug\EventHandlingExampleThree.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 10\EventHandlingExampleThree\EventHandlingExampleThree\obj\Debug\EventHandlingExampleThree.exe
+C:\DotNet Training\Day 10\EventHandlingExampleThree\EventHandlingExampleThree\obj\Debug\EventHandlingExampleThree.pdb

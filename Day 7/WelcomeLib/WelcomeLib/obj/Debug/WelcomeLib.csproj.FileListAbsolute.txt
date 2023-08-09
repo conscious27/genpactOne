@@ -1,0 +1,6 @@
+C:\DotNet Training\Day 7\WelcomeLib\WelcomeLib\bin\Debug\WelcomeLib.dll
+C:\DotNet Training\Day 7\WelcomeLib\WelcomeLib\bin\Debug\WelcomeLib.pdb
+C:\DotNet Training\Day 7\WelcomeLib\WelcomeLib\obj\Debug\WelcomeLib.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 7\WelcomeLib\WelcomeLib\obj\Debug\WelcomeLib.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 7\WelcomeLib\WelcomeLib\obj\Debug\WelcomeLib.dll
+C:\DotNet Training\Day 7\WelcomeLib\WelcomeLib\obj\Debug\WelcomeLib.pdb

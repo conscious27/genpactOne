@@ -1,0 +1,30 @@
+﻿body {
+}
+
+.container{
+    width:300px;
+    height:200px;
+    background-color:darkorange;
+    border:2px solid red;
+    position:relative;
+}
+
+.boxOne {
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border: 2px solid red;
+    position: relative;
+    top:50px;
+    left:50px
+}
+
+.boxFixed {
+    width: 100px;
+    height: 100px;
+    background-color: darkblue;
+    border: 2px solid red;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}

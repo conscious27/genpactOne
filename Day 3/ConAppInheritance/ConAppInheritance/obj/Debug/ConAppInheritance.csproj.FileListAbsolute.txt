@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 3\ConAppInheritance\ConAppInheritance\bin\Debug\ConAppInheritance.exe.config
+C:\DotNet Training\Day 3\ConAppInheritance\ConAppInheritance\bin\Debug\ConAppInheritance.exe
+C:\DotNet Training\Day 3\ConAppInheritance\ConAppInheritance\bin\Debug\ConAppInheritance.pdb
+C:\DotNet Training\Day 3\ConAppInheritance\ConAppInheritance\obj\Debug\ConAppInheritance.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 3\ConAppInheritance\ConAppInheritance\obj\Debug\ConAppInheritance.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 3\ConAppInheritance\ConAppInheritance\obj\Debug\ConAppInheritance.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 3\ConAppInheritance\ConAppInheritance\obj\Debug\ConAppInheritance.exe
+C:\DotNet Training\Day 3\ConAppInheritance\ConAppInheritance\obj\Debug\ConAppInheritance.pdb

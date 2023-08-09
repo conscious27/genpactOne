@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 8\ConAppAnonymous\ConAppAnonymous\bin\Debug\ConAppAnonymous.exe.config
+C:\DotNet Training\Day 8\ConAppAnonymous\ConAppAnonymous\bin\Debug\ConAppAnonymous.exe
+C:\DotNet Training\Day 8\ConAppAnonymous\ConAppAnonymous\bin\Debug\ConAppAnonymous.pdb
+C:\DotNet Training\Day 8\ConAppAnonymous\ConAppAnonymous\obj\Debug\ConAppAnonymous.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 8\ConAppAnonymous\ConAppAnonymous\obj\Debug\ConAppAnonymous.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 8\ConAppAnonymous\ConAppAnonymous\obj\Debug\ConAppAnonymous.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 8\ConAppAnonymous\ConAppAnonymous\obj\Debug\ConAppAnonymous.exe
+C:\DotNet Training\Day 8\ConAppAnonymous\ConAppAnonymous\obj\Debug\ConAppAnonymous.pdb

@@ -1,0 +1,11 @@
+C:\DotNet Training\Day 7\ConAppEmployeesMgmt\ConAppEmployeesMgmt\obj\Debug\ConAppEmployeesMgmt.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 7\ConAppEmployeesMgmt\ConAppEmployeesMgmt\obj\Debug\ConAppEmployeesMgmt.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 7\ConAppEmployeesMgmt\ConAppEmployeesMgmt\obj\Debug\ConAppEmployeesMgmt.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 7\ConAppEmployeesMgmt\ConAppEmployeesMgmt\bin\Debug\ConAppEmployeesMgmt.exe.config
+C:\DotNet Training\Day 7\ConAppEmployeesMgmt\ConAppEmployeesMgmt\bin\Debug\ConAppEmployeesMgmt.exe
+C:\DotNet Training\Day 7\ConAppEmployeesMgmt\ConAppEmployeesMgmt\bin\Debug\ConAppEmployeesMgmt.pdb
+C:\DotNet Training\Day 7\ConAppEmployeesMgmt\ConAppEmployeesMgmt\bin\Debug\EmployeesLibrary.dll
+C:\DotNet Training\Day 7\ConAppEmployeesMgmt\ConAppEmployeesMgmt\bin\Debug\EmployeesLibrary.pdb
+C:\DotNet Training\Day 7\ConAppEmployeesMgmt\ConAppEmployeesMgmt\obj\Debug\ConAppEmployeesMgmt.csproj.CopyComplete
+C:\DotNet Training\Day 7\ConAppEmployeesMgmt\ConAppEmployeesMgmt\obj\Debug\ConAppEmployeesMgmt.exe
+C:\DotNet Training\Day 7\ConAppEmployeesMgmt\ConAppEmployeesMgmt\obj\Debug\ConAppEmployeesMgmt.pdb

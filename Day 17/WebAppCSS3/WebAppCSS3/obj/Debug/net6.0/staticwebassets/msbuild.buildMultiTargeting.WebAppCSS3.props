@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAppCSS3.props" />
+</Project>

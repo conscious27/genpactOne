@@ -1,0 +1,6 @@
+C:\DotNet Training\Day 7\EmployeesLibrary\EmployeesLibrary\bin\Debug\EmployeesLibrary.dll
+C:\DotNet Training\Day 7\EmployeesLibrary\EmployeesLibrary\bin\Debug\EmployeesLibrary.pdb
+C:\DotNet Training\Day 7\EmployeesLibrary\EmployeesLibrary\obj\Debug\EmployeesLibrary.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 7\EmployeesLibrary\EmployeesLibrary\obj\Debug\EmployeesLibrary.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 7\EmployeesLibrary\EmployeesLibrary\obj\Debug\EmployeesLibrary.dll
+C:\DotNet Training\Day 7\EmployeesLibrary\EmployeesLibrary\obj\Debug\EmployeesLibrary.pdb

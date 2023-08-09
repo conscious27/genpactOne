@@ -1,0 +1,11 @@
+h1{
+    background-color: aqua;
+    color: darkblue;
+    text-align: center;
+}
+
+img{
+    border:2px solid red;
+    height: 15%;
+    width: 15%;
+}

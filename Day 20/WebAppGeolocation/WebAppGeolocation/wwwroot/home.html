@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Geolocation Example</title>
+    <script>
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition);
+            }
+            else {
+                document.getElementById("coordinates").innerHTML = "Geo Location not supported in yourBrowser";
+            }
+        }
+        function showPosition(position)
+        {
+            var latitude = position.coords.latitude;
+            var longitude = position.coords.longitude;
+            document.getElementById("coordinates").innerHTML = "Latitude : " + latitude + "<br/>"
+                + "Longitude : " + longitude;
+        }
+    </script>
+</head>
+<body>
+    <h1>Geo Location Example</h1>
+    <p>Click Button to show Geo Location</p>
+    <button onclick="getLocation()">Get Location</button>
+    <p id="coordinates">Your Coordinates going to appear here.</p>
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\DotNet Training\Day 7\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe.config
+C:\DotNet Training\Day 7\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.exe
+C:\DotNet Training\Day 7\RealAlgebra\RealAlgebra\bin\Debug\RealAlgebra.pdb
+C:\DotNet Training\Day 7\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.dll
+C:\DotNet Training\Day 7\RealAlgebra\RealAlgebra\bin\Debug\ShapeAreaLib.pdb
+C:\DotNet Training\Day 7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.csproj.CopyComplete
+C:\DotNet Training\Day 7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.exe
+C:\DotNet Training\Day 7\RealAlgebra\RealAlgebra\obj\Debug\RealAlgebra.pdb

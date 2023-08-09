@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 4\ConAppInterfaceExample\ConAppInterfaceExample\obj\Debug\ConAppInterfaceExample.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 4\ConAppInterfaceExample\ConAppInterfaceExample\obj\Debug\ConAppInterfaceExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 4\ConAppInterfaceExample\ConAppInterfaceExample\obj\Debug\ConAppInterfaceExample.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 4\ConAppInterfaceExample\ConAppInterfaceExample\bin\Debug\ConAppInterfaceExample.exe.config
+C:\DotNet Training\Day 4\ConAppInterfaceExample\ConAppInterfaceExample\bin\Debug\ConAppInterfaceExample.exe
+C:\DotNet Training\Day 4\ConAppInterfaceExample\ConAppInterfaceExample\bin\Debug\ConAppInterfaceExample.pdb
+C:\DotNet Training\Day 4\ConAppInterfaceExample\ConAppInterfaceExample\obj\Debug\ConAppInterfaceExample.exe
+C:\DotNet Training\Day 4\ConAppInterfaceExample\ConAppInterfaceExample\obj\Debug\ConAppInterfaceExample.pdb

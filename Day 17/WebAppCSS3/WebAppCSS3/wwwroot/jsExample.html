@@ -1,0 +1,62 @@
+﻿<!--<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JS Example</title>
+    <link href="css/OurStyle.css" rel="stylesheet" />
+    <script src="js/OurJs.js"></script>
+</head>
+<body>
+    <h1>JS Example One</h1>
+    <button onclick="OurFunction()">Click Me</button>
+</body>
+</html>-->
+<!--<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JS Example</title>
+    <link href="css/OurStyle.css" rel="stylesheet" />
+    <script>
+        function OurFunction() {
+            document.getElementById("wtext").innerHTML = "<b>Welcome to JavaScript</b>";
+        }
+    </script>
+</head>
+<body>
+    <h1 id="wtext">Text is going to appear here.</h1>
+    <button onclick="OurFunction()">Welcome</button>
+
+</body>
+</html>-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JS Example</title>
+    <link href="css/OurStyle.css" rel="stylesheet" />
+    <script>
+        function addFn() {
+            const num1 = parseFloat(document.getElementById("num1").value);
+            const num2 = parseFloat(document.getElementById("num2").value);
+            if ((!isNaN(num1)) && (!isNaN(num2))){
+                const sum = num1 + num2;
+                alert("Result after addition is" + sum);
+            }
+            else {
+                alert("Only Numbers are allowed");
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1 id="wtext">Addition Example</h1>
+    <label>First Number</label>
+    <input type="text" id="num1" /><br />
+    <label>Second Number</label>
+    <input type="text" id="num2" /><br />
+    <button onclick="addFn()">Add Numbers</button>
+    <p id="result">Result will appear here</p>
+</body>
+</html>

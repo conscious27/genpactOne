@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>User Authentication</title>
+    <link href="css/UserStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <form action="result.html" method="get">
+        <table class="frmContainer">
+            <tr class="frmGroup">
+                <td class="frmLbl">User Name:</td>
+                <td><input type="text" class="frmInput"name="uName" id="uName" required/></td>
+            </tr>
+            <tr class="frmGroup">
+                <td class="frmLbl">User Password:</td>
+                <td><input type="password" class="frmInput" name="uPass" id="uPass" required/></td>
+            </tr>
+            <tr class="frmGroup">
+                <td class="frmLbl">User Email:</td>
+                <td><input type="email" class="frmInput"name="uEmail" id="uEmail" /></td>
+            </tr>
+            <tr class="frmGroup">
+                <td class="frmLbl">User Type:</td>
+                <td>Gold:<input type="radio" class="frmInput" value="Gold" name="uType" checked/></td>
+                <td>Silver:<input type="radio" class="frmInput" value="Silver" name="uType" /></td>
+                <td>Bronze:<input type="radio" class="frmInput" value="Bronze" name="uType" /></td>
+            </tr>
+            <tr class="frmGroup">
+                <td class="frmLbl">User City:</td>
+                <td>
+                    <select name="uCity">
+                        <option value="Goa" class="frmInput">Goa</option>
+                        <option value="Delhi" class="frmInput">Delhi</option>
+                        <option value="Pune" class="frmInput">Pune</option>
+                        <option value="Hyderabad" class="frmInput">Hyderabad</option>
+                        <option value="Other" class="frmInput">Other</option>
+                    </select>
+                </td>
+            </tr>
+            <tr class="frmGroup">
+                <td class="frmLbl">End of SUbscription:</td>
+                <td><input type="datetime-local" class="frmInput"name="uEndDate" id="uEndDate" /></td>
+            </tr>
+            <tr class="frmGroup">
+                <td colspan="2"><input type="submit" class="frmBtn"value="Submit" /></td>
+            </tr>
+        </table>
+    </form>
+
+</body>
+</html>

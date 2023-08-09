@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Loops</title>
+    <script>
+        function createTable() {
+            const num = parseInt(document.getElementById("number").value);
+            if (!isNaN(num)) {
+                document.write("<h2>Multiplication Table of " + num + "</h2>");
+                document.write("<table border='1'>");
+                for (let i = 1; i <= 10; i++) {
+                    const result = num * i;
+                    document.write('<tr><td>' + num + '* ' + i + '= ' + result + '</td></tr>');
+                }
+            }
+            else {
+                document.write("<p>Invalid Number</p>")
+            }
+
+        }
+    </script>
+</head>
+<body>
+    <h1>Tables</h1>
+    <label>Enter a number:</label>
+    <input type="number" id="number"/><br/>
+    <button onclick="createTable()">Find table</button>
+</body>
+</html>

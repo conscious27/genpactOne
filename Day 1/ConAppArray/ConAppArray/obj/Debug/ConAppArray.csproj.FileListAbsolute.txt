@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 1\ConAppArray\ConAppArray\bin\Debug\ConAppArray.exe.config
+C:\DotNet Training\Day 1\ConAppArray\ConAppArray\bin\Debug\ConAppArray.exe
+C:\DotNet Training\Day 1\ConAppArray\ConAppArray\bin\Debug\ConAppArray.pdb
+C:\DotNet Training\Day 1\ConAppArray\ConAppArray\obj\Debug\ConAppArray.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 1\ConAppArray\ConAppArray\obj\Debug\ConAppArray.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 1\ConAppArray\ConAppArray\obj\Debug\ConAppArray.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 1\ConAppArray\ConAppArray\obj\Debug\ConAppArray.exe
+C:\DotNet Training\Day 1\ConAppArray\ConAppArray\obj\Debug\ConAppArray.pdb

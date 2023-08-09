@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Display from Local Storage</title>
+    <script>
+        function welcome() {
+            document.getElementById("wmsg").innerHTML = "local storage say we Welcome you <br/> <b>" +
+                localStorage.getItem("fullName") + "<b/>";
+
+
+            document.getElementById("wmsg").innerHTML += "Session storage say we Welcome you <br/> <b>" +
+                sessionStorage.getItem("fullName") + "<b/>";
+        }
+    </script>
+</head>
+<body onload="welcome()">
+    <div id="wmsg"></div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 10\WeeklyAssignment2\WeeklyAssignment2\bin\Debug\WeeklyAssignment2.exe.config
+C:\DotNet Training\Day 10\WeeklyAssignment2\WeeklyAssignment2\bin\Debug\WeeklyAssignment2.exe
+C:\DotNet Training\Day 10\WeeklyAssignment2\WeeklyAssignment2\bin\Debug\WeeklyAssignment2.pdb
+C:\DotNet Training\Day 10\WeeklyAssignment2\WeeklyAssignment2\obj\Debug\WeeklyAssignment2.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 10\WeeklyAssignment2\WeeklyAssignment2\obj\Debug\WeeklyAssignment2.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 10\WeeklyAssignment2\WeeklyAssignment2\obj\Debug\WeeklyAssignment2.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 10\WeeklyAssignment2\WeeklyAssignment2\obj\Debug\WeeklyAssignment2.exe
+C:\DotNet Training\Day 10\WeeklyAssignment2\WeeklyAssignment2\obj\Debug\WeeklyAssignment2.pdb

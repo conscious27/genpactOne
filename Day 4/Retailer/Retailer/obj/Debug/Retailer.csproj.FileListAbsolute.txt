@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 4\Retailer\Retailer\bin\Debug\Retailer.exe.config
+C:\DotNet Training\Day 4\Retailer\Retailer\bin\Debug\Retailer.exe
+C:\DotNet Training\Day 4\Retailer\Retailer\bin\Debug\Retailer.pdb
+C:\DotNet Training\Day 4\Retailer\Retailer\obj\Debug\Retailer.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 4\Retailer\Retailer\obj\Debug\Retailer.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 4\Retailer\Retailer\obj\Debug\Retailer.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 4\Retailer\Retailer\obj\Debug\Retailer.exe
+C:\DotNet Training\Day 4\Retailer\Retailer\obj\Debug\Retailer.pdb

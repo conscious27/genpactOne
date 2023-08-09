@@ -1,0 +1,22 @@
+﻿body {
+    background-color:lightgoldenrodyellow;
+    color:darkblue;
+}
+
+h1{
+    text-align:center;
+}
+div{
+    color:darkblue;
+    float:left;
+    width:220px;
+    height:220px;
+    margin:20px;
+    padding:20px;
+    border:2px solid darkred;
+}
+
+img{
+    height:110px;
+    width:110px;
+}

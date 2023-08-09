@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 7\ConAppMultiCastDelegate\ConAppMultiCastDelegate\bin\Debug\ConAppMultiCastDelegate.exe.config
+C:\DotNet Training\Day 7\ConAppMultiCastDelegate\ConAppMultiCastDelegate\bin\Debug\ConAppMultiCastDelegate.exe
+C:\DotNet Training\Day 7\ConAppMultiCastDelegate\ConAppMultiCastDelegate\bin\Debug\ConAppMultiCastDelegate.pdb
+C:\DotNet Training\Day 7\ConAppMultiCastDelegate\ConAppMultiCastDelegate\obj\Debug\ConAppMultiCastDelegate.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 7\ConAppMultiCastDelegate\ConAppMultiCastDelegate\obj\Debug\ConAppMultiCastDelegate.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 7\ConAppMultiCastDelegate\ConAppMultiCastDelegate\obj\Debug\ConAppMultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 7\ConAppMultiCastDelegate\ConAppMultiCastDelegate\obj\Debug\ConAppMultiCastDelegate.exe
+C:\DotNet Training\Day 7\ConAppMultiCastDelegate\ConAppMultiCastDelegate\obj\Debug\ConAppMultiCastDelegate.pdb

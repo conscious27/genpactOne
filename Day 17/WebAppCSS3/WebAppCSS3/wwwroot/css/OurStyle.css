@@ -1,0 +1,18 @@
+﻿body {
+    font-family:'Times New Roman';
+}
+
+div{
+    background-color:lightgoldenrodyellow;
+    color:darkorange;
+    border:2px solid red;
+}
+
+h1{
+    text-align:center;
+    background-color:lightblue;
+}
+
+h2{
+    text-align:left;
+}

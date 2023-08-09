@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 5\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.exe.config
+C:\DotNet Training\Day 5\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.exe
+C:\DotNet Training\Day 5\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.pdb
+C:\DotNet Training\Day 5\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 5\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 5\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 5\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.exe
+C:\DotNet Training\Day 5\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.pdb

@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 1\ConsoleAppVarEx\ConsoleAppVarEx\bin\Debug\ConsoleAppVarEx.exe.config
+C:\DotNet Training\Day 1\ConsoleAppVarEx\ConsoleAppVarEx\bin\Debug\ConsoleAppVarEx.exe
+C:\DotNet Training\Day 1\ConsoleAppVarEx\ConsoleAppVarEx\bin\Debug\ConsoleAppVarEx.pdb
+C:\DotNet Training\Day 1\ConsoleAppVarEx\ConsoleAppVarEx\obj\Debug\ConsoleAppVarEx.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 1\ConsoleAppVarEx\ConsoleAppVarEx\obj\Debug\ConsoleAppVarEx.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 1\ConsoleAppVarEx\ConsoleAppVarEx\obj\Debug\ConsoleAppVarEx.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 1\ConsoleAppVarEx\ConsoleAppVarEx\obj\Debug\ConsoleAppVarEx.exe
+C:\DotNet Training\Day 1\ConsoleAppVarEx\ConsoleAppVarEx\obj\Debug\ConsoleAppVarEx.pdb

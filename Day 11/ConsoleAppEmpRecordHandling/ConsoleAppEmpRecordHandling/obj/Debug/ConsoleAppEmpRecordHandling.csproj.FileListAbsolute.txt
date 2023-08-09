@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 11\ConsoleAppEmpRecordHandling\ConsoleAppEmpRecordHandling\bin\Debug\ConsoleAppEmpRecordHandling.exe.config
+C:\DotNet Training\Day 11\ConsoleAppEmpRecordHandling\ConsoleAppEmpRecordHandling\bin\Debug\ConsoleAppEmpRecordHandling.exe
+C:\DotNet Training\Day 11\ConsoleAppEmpRecordHandling\ConsoleAppEmpRecordHandling\bin\Debug\ConsoleAppEmpRecordHandling.pdb
+C:\DotNet Training\Day 11\ConsoleAppEmpRecordHandling\ConsoleAppEmpRecordHandling\obj\Debug\ConsoleAppEmpRecordHandling.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 11\ConsoleAppEmpRecordHandling\ConsoleAppEmpRecordHandling\obj\Debug\ConsoleAppEmpRecordHandling.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 11\ConsoleAppEmpRecordHandling\ConsoleAppEmpRecordHandling\obj\Debug\ConsoleAppEmpRecordHandling.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 11\ConsoleAppEmpRecordHandling\ConsoleAppEmpRecordHandling\obj\Debug\ConsoleAppEmpRecordHandling.exe
+C:\DotNet Training\Day 11\ConsoleAppEmpRecordHandling\ConsoleAppEmpRecordHandling\obj\Debug\ConsoleAppEmpRecordHandling.pdb

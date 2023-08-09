@@ -1,0 +1,6 @@
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerLib\bin\Debug\CustomerLib.dll
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerLib\bin\Debug\CustomerLib.pdb
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerLib\obj\Debug\CustomerLib.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerLib\obj\Debug\CustomerLib.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerLib\obj\Debug\CustomerLib.dll
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerLib\obj\Debug\CustomerLib.pdb

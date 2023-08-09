@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Register</title>
+    <script>
+        function reg() {
+            if (typeof Storage !== 'undefined') {
+                let fname = document.getElementById("fname").value;
+                let lname = document.getElementById("lname").value;
+                //localStorage.setItem("key", value);     // Write value in localStorage
+
+                localStorage.setItem("fullName", fname + " " + lname);
+                document.getElementById("result").innerHTML = "Registration Success!!"
+                    + localStorage.getItem("fullName");
+            }
+            else {
+                alert("Sorry! Browser Doesn't support Local Storage");
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Home Page</h1>
+    <input type="text" name="fname" id="fname" /><br />
+    <input type="text" name="lname" id="lname" /><br />
+    <button onclick="reg()">Register</button>
+    <div id="result">Result is going to be display here.</div>
+</body>
+</html>

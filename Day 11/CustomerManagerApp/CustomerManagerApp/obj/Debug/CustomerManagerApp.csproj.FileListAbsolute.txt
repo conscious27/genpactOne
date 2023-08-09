@@ -1,0 +1,11 @@
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerManagerApp\bin\Debug\CustomerManagerApp.exe.config
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerManagerApp\bin\Debug\CustomerManagerApp.exe
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerManagerApp\bin\Debug\CustomerManagerApp.pdb
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerManagerApp\obj\Debug\CustomerManagerApp.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerManagerApp\obj\Debug\CustomerManagerApp.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerManagerApp\obj\Debug\CustomerManagerApp.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerManagerApp\obj\Debug\CustomerManagerApp.exe
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerManagerApp\obj\Debug\CustomerManagerApp.pdb
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerManagerApp\bin\Debug\CustomerLib.dll
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerManagerApp\bin\Debug\CustomerLib.pdb
+C:\DotNet Training\Day 11\CustomerManagerApp\CustomerManagerApp\obj\Debug\CustomerManagerApp.csproj.CopyComplete

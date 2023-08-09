@@ -1,0 +1,8 @@
+.myTable, th{
+    color:darkorange;
+    background-color: whitesmoke;
+}
+
+.myTable, td{
+    color:darkblue;
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAppBS3.props" />
+</Project>

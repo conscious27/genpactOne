@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 5\ConAppGeneric\ConAppGeneric\bin\Debug\ConAppGeneric.exe.config
+C:\DotNet Training\Day 5\ConAppGeneric\ConAppGeneric\bin\Debug\ConAppGeneric.exe
+C:\DotNet Training\Day 5\ConAppGeneric\ConAppGeneric\bin\Debug\ConAppGeneric.pdb
+C:\DotNet Training\Day 5\ConAppGeneric\ConAppGeneric\obj\Debug\ConAppGeneric.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 5\ConAppGeneric\ConAppGeneric\obj\Debug\ConAppGeneric.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 5\ConAppGeneric\ConAppGeneric\obj\Debug\ConAppGeneric.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 5\ConAppGeneric\ConAppGeneric\obj\Debug\ConAppGeneric.exe
+C:\DotNet Training\Day 5\ConAppGeneric\ConAppGeneric\obj\Debug\ConAppGeneric.pdb

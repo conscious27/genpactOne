@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 6\ConAppCustomExc\ConAppCustomExc\bin\Debug\ConAppCustomExc.exe.config
+C:\DotNet Training\Day 6\ConAppCustomExc\ConAppCustomExc\bin\Debug\ConAppCustomExc.exe
+C:\DotNet Training\Day 6\ConAppCustomExc\ConAppCustomExc\bin\Debug\ConAppCustomExc.pdb
+C:\DotNet Training\Day 6\ConAppCustomExc\ConAppCustomExc\obj\Debug\ConAppCustomExc.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 6\ConAppCustomExc\ConAppCustomExc\obj\Debug\ConAppCustomExc.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 6\ConAppCustomExc\ConAppCustomExc\obj\Debug\ConAppCustomExc.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 6\ConAppCustomExc\ConAppCustomExc\obj\Debug\ConAppCustomExc.exe
+C:\DotNet Training\Day 6\ConAppCustomExc\ConAppCustomExc\obj\Debug\ConAppCustomExc.pdb

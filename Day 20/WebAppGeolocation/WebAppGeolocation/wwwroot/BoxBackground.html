@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Background</title>
+    <link href="css/OurStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="box">
+        <form>
+            <label for="slider">Choose a value</label>
+            <input type="range" id="slider" name="slider" min="0" mxa="100" value="25"/>
+            <p id="sPara">Slider Value is :25</p>
+        </form>
+    </div>
+    <script>
+        const slider = document.getElementById("slider");
+        const sliderValue = document.getElementById("sPara");
+        sliderValue.textContent = slider.value;
+        slider.addEventListener("input", function () {
+            sliderValue.textContent = this.value;
+        });
+    </script>
+</body>
+</html>

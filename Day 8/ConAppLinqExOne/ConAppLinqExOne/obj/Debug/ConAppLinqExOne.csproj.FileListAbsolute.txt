@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 8\ConAppLinqExOne\ConAppLinqExOne\bin\Debug\ConAppLinqExOne.exe.config
+C:\DotNet Training\Day 8\ConAppLinqExOne\ConAppLinqExOne\bin\Debug\ConAppLinqExOne.exe
+C:\DotNet Training\Day 8\ConAppLinqExOne\ConAppLinqExOne\bin\Debug\ConAppLinqExOne.pdb
+C:\DotNet Training\Day 8\ConAppLinqExOne\ConAppLinqExOne\obj\Debug\ConAppLinqExOne.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 8\ConAppLinqExOne\ConAppLinqExOne\obj\Debug\ConAppLinqExOne.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 8\ConAppLinqExOne\ConAppLinqExOne\obj\Debug\ConAppLinqExOne.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 8\ConAppLinqExOne\ConAppLinqExOne\obj\Debug\ConAppLinqExOne.exe
+C:\DotNet Training\Day 8\ConAppLinqExOne\ConAppLinqExOne\obj\Debug\ConAppLinqExOne.pdb

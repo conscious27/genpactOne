@@ -1,0 +1,16 @@
+C:\DotNet Training\Day 8\ConAppFileHandling\ConAppFileHandling\bin\Debug\ConAppFileHandling.exe.config
+C:\DotNet Training\Day 8\ConAppFileHandling\ConAppFileHandling\bin\Debug\ConAppFileHandling.exe
+C:\DotNet Training\Day 8\ConAppFileHandling\ConAppFileHandling\bin\Debug\ConAppFileHandling.pdb
+C:\DotNet Training\Day 8\ConAppFileHandling\ConAppFileHandling\obj\Debug\ConAppFileHandling.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 8\ConAppFileHandling\ConAppFileHandling\obj\Debug\ConAppFileHandling.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 8\ConAppFileHandling\ConAppFileHandling\obj\Debug\ConAppFileHandling.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 8\ConAppFileHandling\ConAppFileHandling\obj\Debug\ConAppFileHandling.exe
+C:\DotNet Training\Day 8\ConAppFileHandling\ConAppFileHandling\obj\Debug\ConAppFileHandling.pdb
+C:\DotNet Training\Day 9\ConAppFileHandling\ConAppFileHandling\bin\Debug\ConAppFileHandling.exe.config
+C:\DotNet Training\Day 9\ConAppFileHandling\ConAppFileHandling\bin\Debug\ConAppFileHandling.exe
+C:\DotNet Training\Day 9\ConAppFileHandling\ConAppFileHandling\bin\Debug\ConAppFileHandling.pdb
+C:\DotNet Training\Day 9\ConAppFileHandling\ConAppFileHandling\obj\Debug\ConAppFileHandling.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 9\ConAppFileHandling\ConAppFileHandling\obj\Debug\ConAppFileHandling.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 9\ConAppFileHandling\ConAppFileHandling\obj\Debug\ConAppFileHandling.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 9\ConAppFileHandling\ConAppFileHandling\obj\Debug\ConAppFileHandling.exe
+C:\DotNet Training\Day 9\ConAppFileHandling\ConAppFileHandling\obj\Debug\ConAppFileHandling.pdb

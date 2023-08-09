@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 4\BankingExample\BankingExample\bin\Debug\BankingExample.exe.config
+C:\DotNet Training\Day 4\BankingExample\BankingExample\bin\Debug\BankingExample.exe
+C:\DotNet Training\Day 4\BankingExample\BankingExample\bin\Debug\BankingExample.pdb
+C:\DotNet Training\Day 4\BankingExample\BankingExample\obj\Debug\BankingExample.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 4\BankingExample\BankingExample\obj\Debug\BankingExample.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 4\BankingExample\BankingExample\obj\Debug\BankingExample.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 4\BankingExample\BankingExample\obj\Debug\BankingExample.exe
+C:\DotNet Training\Day 4\BankingExample\BankingExample\obj\Debug\BankingExample.pdb

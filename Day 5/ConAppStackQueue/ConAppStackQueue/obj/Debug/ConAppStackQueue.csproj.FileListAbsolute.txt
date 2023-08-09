@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 5\ConAppStackQueue\ConAppStackQueue\bin\Debug\ConAppStackQueue.exe.config
+C:\DotNet Training\Day 5\ConAppStackQueue\ConAppStackQueue\bin\Debug\ConAppStackQueue.exe
+C:\DotNet Training\Day 5\ConAppStackQueue\ConAppStackQueue\bin\Debug\ConAppStackQueue.pdb
+C:\DotNet Training\Day 5\ConAppStackQueue\ConAppStackQueue\obj\Debug\ConAppStackQueue.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 5\ConAppStackQueue\ConAppStackQueue\obj\Debug\ConAppStackQueue.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 5\ConAppStackQueue\ConAppStackQueue\obj\Debug\ConAppStackQueue.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 5\ConAppStackQueue\ConAppStackQueue\obj\Debug\ConAppStackQueue.exe
+C:\DotNet Training\Day 5\ConAppStackQueue\ConAppStackQueue\obj\Debug\ConAppStackQueue.pdb

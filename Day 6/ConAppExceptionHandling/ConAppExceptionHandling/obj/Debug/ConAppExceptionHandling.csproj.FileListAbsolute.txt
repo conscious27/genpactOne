@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 6\ConAppExceptionHandling\ConAppExceptionHandling\bin\Debug\ConAppExceptionHandling.exe.config
+C:\DotNet Training\Day 6\ConAppExceptionHandling\ConAppExceptionHandling\bin\Debug\ConAppExceptionHandling.exe
+C:\DotNet Training\Day 6\ConAppExceptionHandling\ConAppExceptionHandling\bin\Debug\ConAppExceptionHandling.pdb
+C:\DotNet Training\Day 6\ConAppExceptionHandling\ConAppExceptionHandling\obj\Debug\ConAppExceptionHandling.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 6\ConAppExceptionHandling\ConAppExceptionHandling\obj\Debug\ConAppExceptionHandling.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 6\ConAppExceptionHandling\ConAppExceptionHandling\obj\Debug\ConAppExceptionHandling.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 6\ConAppExceptionHandling\ConAppExceptionHandling\obj\Debug\ConAppExceptionHandling.exe
+C:\DotNet Training\Day 6\ConAppExceptionHandling\ConAppExceptionHandling\obj\Debug\ConAppExceptionHandling.pdb

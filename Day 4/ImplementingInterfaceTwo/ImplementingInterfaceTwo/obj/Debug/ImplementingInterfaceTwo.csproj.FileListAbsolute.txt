@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 4\ImplementingInterfaceTwo\ImplementingInterfaceTwo\bin\Debug\ImplementingInterfaceTwo.exe.config
+C:\DotNet Training\Day 4\ImplementingInterfaceTwo\ImplementingInterfaceTwo\bin\Debug\ImplementingInterfaceTwo.exe
+C:\DotNet Training\Day 4\ImplementingInterfaceTwo\ImplementingInterfaceTwo\bin\Debug\ImplementingInterfaceTwo.pdb
+C:\DotNet Training\Day 4\ImplementingInterfaceTwo\ImplementingInterfaceTwo\obj\Debug\ImplementingInterfaceTwo.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 4\ImplementingInterfaceTwo\ImplementingInterfaceTwo\obj\Debug\ImplementingInterfaceTwo.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 4\ImplementingInterfaceTwo\ImplementingInterfaceTwo\obj\Debug\ImplementingInterfaceTwo.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 4\ImplementingInterfaceTwo\ImplementingInterfaceTwo\obj\Debug\ImplementingInterfaceTwo.exe
+C:\DotNet Training\Day 4\ImplementingInterfaceTwo\ImplementingInterfaceTwo\obj\Debug\ImplementingInterfaceTwo.pdb

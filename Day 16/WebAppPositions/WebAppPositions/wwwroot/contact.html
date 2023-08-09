@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Contact Us</title>
+    <style>
+        .frmContainer
+        {
+            max-width:500px;
+            margin:20px auto;
+            border:1px solid darkgray;
+            border-radius:5px;
+        }
+        .frmContainer h2
+        {
+            text-align:center;
+            margin-bottom:20px;
+        }
+        .frmGroup
+        {
+            margin-bottom:15px;
+        }
+        .frmInput
+        {
+            width:90%;
+            margin:3%;
+            padding:8px;
+            font-size:16px;
+            border:1px solid darkgray;
+            border-radius:4px;
+        }
+        ..frmBtn {
+            width: 100%;
+            padding: 10px;
+            background-color:darkblue;
+            color:white;
+            border:none;
+            border-radius: 4px;
+            cursor:pointer;
+        }
+        .frmBtn:hover{
+            background-color:red;
+        }
+        .frmbl{
+            display:block;
+            font-weight:bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="frmContainer">
+        <h2>Contact Us</h2>
+        <form>
+            <div class="frmGroup">
+                <label class="frmbl">User Name:</label>
+                <input type="text" class="frmInput" required />
+            </div>
+            <div class="frmGroup">
+                <label class="frmbl">User Email:</label>
+                <input type="email" class="frmInput" required />
+            </div>
+            <div class="frmGroup">
+                <label class="frmbl">Message:</label>
+                <textarea required rows="4" class="frmInput"></textarea>
+            </div>
+            <button type="submit" class="frmBtn">Send</button>
+        </form>
+    </div>
+
+</body>
+</html>

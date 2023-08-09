@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Drag and Drop Example</title>
+    <link href="css/OurStyle.css" rel="stylesheet" />
+    <script>
+        function allowDropThis(i) {
+            i.preventDefault();
+        }
+
+        function dragThis(i) {
+            i.dataTransfer.setData("students", i.target.id);
+        }
+
+        function dropThis(i) {
+            i.preventDefault();
+            var data = i.dataTransfer.getData("students");
+            i.target.appendChild(document.getElementById(data));
+        }
+    </script>
+</head>
+<body>
+    <h1>let's Drag and Drop Our Images</h1>
+    <div id="figOne" ondrop="dropThis(event)" ondragover="allowDropThis(event)">
+        <img src="images/student.jpg" draggable="=true" id="dragOne" ondragstart="dragThis(event)" />
+    </div>
+    <div id="figTwo" ondrop="dropThis(event)" ondragover="allowDropThis(event)">
+    Image will appear here.</div>
+</body>
+</html>

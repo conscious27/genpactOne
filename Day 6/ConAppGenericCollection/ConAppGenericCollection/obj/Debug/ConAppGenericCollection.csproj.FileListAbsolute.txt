@@ -1,0 +1,16 @@
+C:\DotNet Training\Day 5\ConAppGenericCollection\ConAppGenericCollection\bin\Debug\ConAppGenericCollection.exe.config
+C:\DotNet Training\Day 5\ConAppGenericCollection\ConAppGenericCollection\bin\Debug\ConAppGenericCollection.exe
+C:\DotNet Training\Day 5\ConAppGenericCollection\ConAppGenericCollection\bin\Debug\ConAppGenericCollection.pdb
+C:\DotNet Training\Day 5\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 5\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 5\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 5\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.exe
+C:\DotNet Training\Day 5\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.pdb
+C:\DotNet Training\Day 6\ConAppGenericCollection\ConAppGenericCollection\bin\Debug\ConAppGenericCollection.exe.config
+C:\DotNet Training\Day 6\ConAppGenericCollection\ConAppGenericCollection\bin\Debug\ConAppGenericCollection.exe
+C:\DotNet Training\Day 6\ConAppGenericCollection\ConAppGenericCollection\bin\Debug\ConAppGenericCollection.pdb
+C:\DotNet Training\Day 6\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 6\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 6\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 6\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.exe
+C:\DotNet Training\Day 6\ConAppGenericCollection\ConAppGenericCollection\obj\Debug\ConAppGenericCollection.pdb

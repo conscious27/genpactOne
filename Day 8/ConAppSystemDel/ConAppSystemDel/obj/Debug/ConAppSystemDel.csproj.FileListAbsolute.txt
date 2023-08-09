@@ -1,0 +1,8 @@
+C:\DotNet Training\Day 8\ConAppSystemDel\ConAppSystemDel\bin\Debug\ConAppSystemDel.exe.config
+C:\DotNet Training\Day 8\ConAppSystemDel\ConAppSystemDel\bin\Debug\ConAppSystemDel.exe
+C:\DotNet Training\Day 8\ConAppSystemDel\ConAppSystemDel\bin\Debug\ConAppSystemDel.pdb
+C:\DotNet Training\Day 8\ConAppSystemDel\ConAppSystemDel\obj\Debug\ConAppSystemDel.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 8\ConAppSystemDel\ConAppSystemDel\obj\Debug\ConAppSystemDel.csproj.SuggestedBindingRedirects.cache
+C:\DotNet Training\Day 8\ConAppSystemDel\ConAppSystemDel\obj\Debug\ConAppSystemDel.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 8\ConAppSystemDel\ConAppSystemDel\obj\Debug\ConAppSystemDel.exe
+C:\DotNet Training\Day 8\ConAppSystemDel\ConAppSystemDel\obj\Debug\ConAppSystemDel.pdb
