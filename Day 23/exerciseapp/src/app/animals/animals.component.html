@@ -1,1 +1,8 @@
-<p>animals works!</p>
+<h1>Animal Lists</h1>
+<ul class="text-fluid list-group">
+    <li *ngFor="let a of animals">
+        <b>Name:</b> {{a.aname}} <br/>
+        <b>Species:</b> {{a.species}} <br/>
+        <b>Photo:</b> <img src="{{a.photos}}">
+    </li>
+</ul>
