@@ -1,4 +1,4 @@
-<h1>Contact Registration</h1>
+<!-- <h1>Contact Registration</h1>
 <form #contactForm="ngForm" (ngSubmit)="obj.addContact()">
   <label for="id">ID</label> <br/>
   <input type="'text" id="id" name="id" [(ngModel)]="obj.newContact.id">
@@ -13,7 +13,7 @@
   <input type="text" id="city" name="city" [(ngModel)]="obj.newContact.city">
 
   <button type="submit">AddContact</button>
-</form>
+</form> -->
 <!-- <h2>Contact List</h2>
 <table>
   <thead>
@@ -29,3 +29,53 @@
     <td>{{c.city}}</td>
   </tbody>
 </table> -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <h2 class="bg-primary text-white text-center">Registration Form</h2>
+      <form [formGroup]="contactForm" (ngSubmit)="OnSubmit()">
+        <div class="mb-3">
+          <label for="name" class="form-label">Name</label>
+          <input type="text" class="form-control" id="name" formControlNam="name">
+          <div *ngIf="contactForm.get('name').invalid && contactForm.get('name').touched"
+          class="bg-danger text-white">Enter Name First</div>
+        </div>
+        <div class="mb-3">
+          <label for="email" class="form-label">Email</label>
+          <input type="email" class="form-control" id="email" formControlNam="email">
+          <div *ngIf="contactForm.get('email').invalid && contactForm.get('email').touched"
+          class="bg-danger text-white">Enter Email and Valid Email</div>
+        </div>
+
+        <div class="mb-3">
+          <label for="message" class="form-label">Message</label>
+          <input type="message" class="form-control" id="message" formControlNam="message">
+          <div *ngIf="contactForm.get('message').invalid && contactForm.get('message').touched"
+          class="bg-danger text-white">Enter Message</div>
+        </div>
+
+        <button type="submit" class="btn btn-primary" [disabled]="contactForm.invalid">Submit</button>
+      </form>
+    </div>
+    
+    <div class="col-md-6">
+      <table class="table table-hover table-success">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th colspan="2">Email</th>
+            <th colspan="2">Email</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let fD of submittedData">
+            <th>{{fD.name}}</th>
+            <th colspan="2">{{fD.email}}</th>
+            <th colspan="3">{{fD.message}}</th>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
