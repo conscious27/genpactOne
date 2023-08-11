@@ -1,0 +1,31 @@
+<h1>Contact Registration</h1>
+<form #contactForm="ngForm" (ngSubmit)="obj.addContact()">
+  <label for="id">ID</label> <br/>
+  <input type="'text" id="id" name="id" [(ngModel)]="obj.newContact.id">
+
+  <label for="name">Name</label> <br/>
+  <input type="'text" id="name" name="name" [(ngModel)]="obj.newContact.name">
+
+  <label for="phone">Phone</label> <br/>
+  <input type="tel" id="phone" name="phone" [(ngModel)]="obj.newContact.phone">
+
+  <label for="city">City</label> <br/>
+  <input type="text" id="city" name="city" [(ngModel)]="obj.newContact.city">
+
+  <button type="submit">AddContact</button>
+</form>
+<!-- <h2>Contact List</h2>
+<table>
+  <thead>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Phone</th>
+    <th>City</th>
+  </thead>
+  <tbody *ngFor="let c of obj.contacts">
+    <td>{{c.id}}</td>
+    <td>{{c.name}}</td>
+    <td>{{c.phone}}</td>
+    <td>{{c.city}}</td>
+  </tbody>
+</table> -->
