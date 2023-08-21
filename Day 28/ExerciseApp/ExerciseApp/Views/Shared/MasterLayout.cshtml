@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/css/ourstyle.css" rel="stylesheet" />
+</head>
+<body>
+    <header class="header">
+        <h1>Welocme to Our Page!</h1>
+    </header>
+    <div class="leftPanel">
+        <ul class="nav">
+                <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                <li><a asp-area="" asp-controller="Employees" asp-action="Index">Employee</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></li>
+        </ul>
+    </div>
+    <div class="mainPanel">
+            @RenderBody()
+    </div>
+    <div class="rightPanel">
+    </div>
+    <footer class="footer">
+        <p>All Right Reserverd 2023</p>
+    </footer>
+
+</body>
+</html>
