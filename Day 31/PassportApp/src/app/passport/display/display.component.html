@@ -1,0 +1,21 @@
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Passport ID</th>
+            <th>Passport NUmber</th>
+            <th>Passport Holder</th>
+            <th>Expiry Date</th>
+            <th>Office Code</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let p of objs.ppList">
+            <td>{{p.Id}}</td>
+            <td>{{p.PassportNumber}}</td>
+            <td>{{p.HolderName}}</td>
+            <td>{{p.Expiry}}</td>
+            <td>{{p.POCode}}</td>
+            <td><button>Delete</button></td>
+        </tr>
+    </tbody>
+</table>
