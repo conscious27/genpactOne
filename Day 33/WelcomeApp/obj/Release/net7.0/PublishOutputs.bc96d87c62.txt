@@ -1,0 +1,5 @@
+C:\DotNet Training\Day 33\WelcomeApp\out\WelcomeApp.exe
+C:\DotNet Training\Day 33\WelcomeApp\out\WelcomeApp.dll
+C:\DotNet Training\Day 33\WelcomeApp\out\WelcomeApp.deps.json
+C:\DotNet Training\Day 33\WelcomeApp\out\WelcomeApp.runtimeconfig.json
+C:\DotNet Training\Day 33\WelcomeApp\out\WelcomeApp.pdb

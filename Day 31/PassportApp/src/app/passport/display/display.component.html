@@ -10,12 +10,12 @@
     </thead>
     <tbody>
         <tr *ngFor="let p of objs.ppList">
-            <td>{{p.Id}}</td>
-            <td>{{p.PassportNumber}}</td>
-            <td>{{p.HolderName}}</td>
-            <td>{{p.Expiry}}</td>
-            <td>{{p.POCode}}</td>
-            <td><button>Delete</button></td>
+            <td (click)="fillForm(p)">{{p.Id}}</td>
+            <td (click)="fillForm(p)">{{p.PassportNumber}}</td>
+            <td (click)="fillForm(p)">{{p.HolderName}}</td>
+            <td (click)="fillForm(p)">{{p.Expiry}}</td>
+            <td (click)="fillForm(p)">{{p.POCode}}</td>
+            <td><button class="fa fa-trash bg-white text-danger" (click)="onDelete(p.Id)"></button></td>
         </tr>
     </tbody>
 </table>

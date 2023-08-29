@@ -20,9 +20,10 @@ export class PassportService {
     this.objHttp.get(this.ppApiUrl).toPromise().then(res=>this.ppList=res as Passport[]);
   }
   delPassport(id){
-    this.objHttp.delete(this.ppApiUrl+"/"+id);
+    return this.objHttp.delete(this.ppApiUrl+"/"+id);
   }
-  putPassport(){
-    this.objHttp.put(this.ppApiUrl+"/"+this.ppData.Id,this.ppData);
+  putPassport()
+  {
+   return this.objHttp.put(this.ppApiUrl+"/"+this.ppData.Id,this.ppData);
   }
 }

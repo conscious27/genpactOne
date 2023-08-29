@@ -1,0 +1,15 @@
+C:\DotNet Training\Day 33\WelcomeApp\bin\Release\net7.0\WelcomeApp.exe
+C:\DotNet Training\Day 33\WelcomeApp\bin\Release\net7.0\WelcomeApp.deps.json
+C:\DotNet Training\Day 33\WelcomeApp\bin\Release\net7.0\WelcomeApp.runtimeconfig.json
+C:\DotNet Training\Day 33\WelcomeApp\bin\Release\net7.0\WelcomeApp.dll
+C:\DotNet Training\Day 33\WelcomeApp\bin\Release\net7.0\WelcomeApp.pdb
+C:\DotNet Training\Day 33\WelcomeApp\obj\Release\net7.0\WelcomeApp.csproj.AssemblyReference.cache
+C:\DotNet Training\Day 33\WelcomeApp\obj\Release\net7.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet Training\Day 33\WelcomeApp\obj\Release\net7.0\WelcomeApp.AssemblyInfoInputs.cache
+C:\DotNet Training\Day 33\WelcomeApp\obj\Release\net7.0\WelcomeApp.AssemblyInfo.cs
+C:\DotNet Training\Day 33\WelcomeApp\obj\Release\net7.0\WelcomeApp.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Day 33\WelcomeApp\obj\Release\net7.0\WelcomeApp.dll
+C:\DotNet Training\Day 33\WelcomeApp\obj\Release\net7.0\refint\WelcomeApp.dll
+C:\DotNet Training\Day 33\WelcomeApp\obj\Release\net7.0\WelcomeApp.pdb
+C:\DotNet Training\Day 33\WelcomeApp\obj\Release\net7.0\WelcomeApp.genruntimeconfig.cache
+C:\DotNet Training\Day 33\WelcomeApp\obj\Release\net7.0\ref\WelcomeApp.dll

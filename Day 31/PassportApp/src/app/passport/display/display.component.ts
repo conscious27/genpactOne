@@ -12,4 +12,15 @@ export class DisplayComponent implements OnInit {
   ngOnInit():void{
     this.objs.getPassportList();
   }
+  fillForm(selectedPP){
+    this.objs.ppData = Object.assign({},selectedPP);
+  }
+  onDelete(pid){
+    if(confirm('Are you sure you want to delete this passport?')){
+      this.objs.delPassport(pid).subscribe(
+        res=>{this.objs.getPassportList()},
+        err=>(alert("Error Occured" + err))
+      )
+    }
+  }
 }
